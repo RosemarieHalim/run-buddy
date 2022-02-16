@@ -51,15 +51,23 @@ body {
     padding: 0 100px 20px 100px;
     display: inline-block;
     border-bottom: 3px solid;
-  }
+}
   
-  .primary-border {
+.primary-border {
     border-color: #fce138;
-  }
+}
   
-  .secondary-border {
+.secondary-border {
     border-color: #39a6b2;
-  }
+}
+
+.text-left {
+    text-align: left;
+}
+  
+.text-right {
+    text-align: right;
+}
 
 /* Section Styles */
 section {
@@ -170,6 +178,7 @@ section {
     margin: 0 auto 30px auto;
     background: #024e76;
     color: #fce138;
+    overflow: auto;
 }
 
 .trainer img {
@@ -181,14 +190,6 @@ section {
     padding: 35px;
     float: left;
     width: 65%;
-}
-
-.text-left {
-    text-align: left;
-}
-  
-  .text-right {
-    text-align: right;
 }
 
 .trainer-bio h3 {
