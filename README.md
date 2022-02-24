@@ -4,7 +4,7 @@ This is a bootcamp project to learn how to create a full fledged website.
 
 ---
 
-
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services. 
