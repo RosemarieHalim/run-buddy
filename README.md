@@ -2,6 +2,23 @@
 
 This is a bootcamp project to learn how to create a full fledged website.
 
+---
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
+---
+
 ## Module 1.0
 
 * learnt basic Git commands of creating files/folders and committing new changes to GitHub
