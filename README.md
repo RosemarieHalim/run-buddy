@@ -3,6 +3,7 @@
 This is a bootcamp project to learn how to create a full fledged website.
 
 ---
+
 # Run Buddy
 
 ## Purpose
@@ -17,6 +18,7 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [your name]
+
 ---
 
 ## Module 1.0
